@@ -20,7 +20,7 @@
     "@11ty/eleventy": "^3.1.6",
     "@sindresorhus/slugify": "^3.0.0",
     "cheerio": "^1.0.0",
-    "glob": "^13.0.6",
+    "glob": "^14.0.2",
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.11.1",
     "liquidjs": "^10.27.2",
